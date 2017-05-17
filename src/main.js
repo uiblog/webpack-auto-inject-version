@@ -18,7 +18,7 @@ export default class WebpackAutoInject {
    */
   static protectedConfig = {
     NAME: 'Auto Inject Version',
-    SHORT: 'AIV'
+    SHORT: ''
   };
 
   /**
