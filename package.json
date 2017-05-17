@@ -7,6 +7,9 @@
   "scripts": {
     "start": "babel-node tools/compile.js"
   },
+  "files": [
+    "dist"
+  ],
   "author": "Radoslaw Swiat",
   "license": "ISC",
   "devDependencies": {
